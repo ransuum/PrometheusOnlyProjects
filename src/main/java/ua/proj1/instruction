@@ -1,0 +1,13 @@
+------MENU-------
+0 - display menu order again
+1 - Create Account
+2 - delete Account
+3 - create category
+4 - delete category
+5 - record transaction
+6 - analyze transaction
+7 - find most popular category
+8 - display system info
+9 - display account info
+10 - display category info
+11 - display transaction info
